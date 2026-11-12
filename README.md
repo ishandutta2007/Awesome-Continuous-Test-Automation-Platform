@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Continuous-Test-Automation-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Continuous-Test-Automation-Platform?style=social&color=white" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Continuous-Test-Automation-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Continuous-Test-Automation-Platform?style=social&color=white" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Continuous-Test-Automation-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Continuous-Test-Automation-Platform?style=social&color=white" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Continuous-Test-Automation-Platform/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Continuous-Test-Automation-Platform?style=flat-square&color=blue" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Continuous-Test-Automation-Platform/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
@@ -63,9 +63,9 @@ The sector exhibits **moderate fragmentation**: while enterprise giants and priv
 
 ## 🌐 Open-Source GitHub Projects
 
-*Ranked in descending order by GitHub Star count.*
+*Ranked in descending order by GitHub Stars_Count.*
 
-| 📦 Project | ⭐ Stars | 📄 Description | 💻 Key Strengths |
+| 📦 Project | ⭐ GitHub_Stars | 📄 Description | 💻 Key Strengths |
 |---|---|---|---|
 | **[Playwright](https://github.com/microsoft/playwright)** | [![Playwright Stars](https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white)](https://github.com/microsoft/playwright/stargazers) | Microsoft's cross-browser, cross-language end-to-end automation framework for modern web apps. | Fast headless execution, automatic waiting, network mocking, multi-tab contexts, and trace viewer. |
 | **[Cypress](https://github.com/cypress-io/cypress)** | [![Cypress Stars](https://img.shields.io/github/stars/cypress-io/cypress?style=social&color=white)](https://github.com/cypress-io/cypress/stargazers) | Fast, easy, and reliable frontend testing for anything that runs in a browser. | In-browser time-travel debugging, readable syntax, real-time reloading, and active ecosystem. |
@@ -102,7 +102,7 @@ We welcome contributions to expand this directory! To submit a new tool or frame
 
 1. 🍴 Fork the repository.
 2. ✍️ Edit `README.md` following the existing tabular structure.
-3. 🔍 Provide accurate descriptions, starting tier pricing, free tier/trial caps, or GitHub star badges.
+3. 🔍 Provide accurate descriptions, starting tier pricing, free tier/trial caps, or GitHub Stars_Badges.
 4. 🚀 Submit a Pull Request with a clear summary of your additions.
 
 ---
