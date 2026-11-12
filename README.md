@@ -1,6 +1,6 @@
 # Awesome-Continuous-Test-Automation-Platform
 
-# Top Continuous Test Automation Platform Ecosystem
+## Top Continuous Test Automation Platform Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on End-to-End Test Orchestration, AI-Assisted Maintenance & CI/CD Quality Gates*  
